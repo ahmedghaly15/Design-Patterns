@@ -1,4 +1,4 @@
-import 'behavioral_design_patterns/chain_of_responsibility/example.dart';
+import 'example.dart';
 
 void main() {
   // Create handlers

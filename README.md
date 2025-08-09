@@ -37,7 +37,7 @@ Whether you’re new to design patterns or need a quick reference for a project,
 - **Command** – Encapsulate requests as objects.
 - **Interpreter** – Define a grammar and interpret sentences in it.
 - **Iterator** – Traverse elements without exposing representation.
-<!-- - **Mediator** – Define an object to coordinate communication. -->
+- **Mediator** – Define an object to coordinate communication.
 <!-- - **Memento** – Capture and restore an object’s state. -->
 - **Observer** – Notify dependent objects of changes.
 <!-- - **State** – Change behavior when an object’s state changes. -->

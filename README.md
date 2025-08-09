@@ -34,13 +34,13 @@ Whether you’re new to design patterns or need a quick reference for a project,
 
 ### Behavioral Patterns
 - **Chain of Responsibility** – Pass requests along a chain of handlers.
-<!-- - **Command** – Encapsulate requests as objects.
+- **Command** – Encapsulate requests as objects.
 - **Interpreter** – Define a grammar and interpret sentences in it.
 - **Iterator** – Traverse elements without exposing representation.
-- **Mediator** – Define an object to coordinate communication.
-- **Memento** – Capture and restore an object’s state. -->
+<!-- - **Mediator** – Define an object to coordinate communication. -->
+<!-- - **Memento** – Capture and restore an object’s state. -->
 - **Observer** – Notify dependent objects of changes.
-<!-- - **State** – Change behavior when an object’s state changes.
-- **Strategy** – Define a family of algorithms and make them interchangeable.
-- **Template Method** – Define the skeleton of an algorithm.
-- **Visitor** – Separate algorithms from object structures. -->
+<!-- - **State** – Change behavior when an object’s state changes. -->
+<!-- - **Strategy** – Define a family of algorithms and make them interchangeable. -->
+<!-- - **Template Method** – Define the skeleton of an algorithm. -->
+<!-- - **Visitor** – Separate algorithms from object structures. -->

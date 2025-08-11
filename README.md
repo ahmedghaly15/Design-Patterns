@@ -43,4 +43,4 @@ Whether you’re new to design patterns or need a quick reference for a project,
 - **State** – Change behavior when an object’s state changes.
 - **Strategy** – Define a family of algorithms and make them interchangeable.
 - **Template Method** – Define the skeleton of an algorithm.
-<!-- - **Visitor** – Separate algorithms from object structures. -->
+- **Visitor** – Separate algorithms from object structures.
